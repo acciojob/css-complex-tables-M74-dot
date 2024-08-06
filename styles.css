@@ -1,6 +1,8 @@
 /*  your css code here. If applicable */
 table{
-	border: 1px solid orange;
+	border-width: 1px;
+	border-style: solid;
+	border-color: orange;
 }
 thead{
 	background-color:#888888;
@@ -8,7 +10,9 @@ thead{
 }
 th,td{
 	text-align:center;
-	border: 1px solid orange;
+	border-width: 1px;
+	border-style: solid;
+	border-color: orange;
 	padding: 3px 5px;
 }
 .sub-total-text{
