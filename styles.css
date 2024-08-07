@@ -10,6 +10,7 @@ table th{
 }
 th{
 	background-color:rgb(136, 136, 136);
+	color:rgb(255, 255, 255);
 }
 table th,table td{
 	text-align:center;
