@@ -2,19 +2,19 @@
 table{
 	border-width: 0px 0px 1px 1px;
 	border-style: solid;
-	border-color: orange;
+	border-color: rgb(255, 165, 0);
 }
-th{
+table th{
 	background-color: rgb(136, 136, 136)
-	color:white;
+	color:rgb(255, 255, 255);
 }
-th,td{
+table th,table td{
 	text-align:center;
-	border-width: 1px;
+	border-width: 1px 1px 0px 0px;
 	border-style: solid;
-	border-color: orange;
+	border-color: rgb(255, 165, 0);
 	padding: 3px 5px;
 }
-.sub-total-text{
+tr.sub-total-row td.sub-total-text{
 	text-align: right;
 }
