@@ -4,8 +4,8 @@ table{
 	border-style: solid;
 	border-color: orange;
 }
-thead{
-	background-color:#888888;
+th{
+	background-color: rgb(136, 136, 136)
 	color:white;
 }
 th,td{
